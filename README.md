@@ -1,6 +1,5 @@
 <h1>University Exam Paper Archive</h1>
 <p>Access previous exam question papers to boost your exam preparation.</p>
-<hr>
 <h2>Key Features</h2>
      <ul>
         <li><strong>Search Functionality:</strong> Quickly find exam papers by entering details such as subject, year, or exam name.</li>
