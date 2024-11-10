@@ -1,5 +1,5 @@
 <h1>University Exam Paper Archive</h1>
-<p>Access previous exam question papers to boost your exam preparation.</p>
+<p>This web application serves as a platform for students to easily browse, search, and download previous exam question papers across various subjects and semesters. Its user-friendly design enhances exam preparation by providing quick access to past papers.</p>
 <h2>Key Features</h2>
      <ul>
         <li><strong>Search Functionality:</strong> Quickly find exam papers by entering details such as subject, year, or exam name.</li>
@@ -9,4 +9,3 @@
      </ul>
 </section>
 
-   
