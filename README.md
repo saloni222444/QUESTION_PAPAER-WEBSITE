@@ -1,6 +1,6 @@
 Click this to check the End result: https://mysticxsam.github.io/Portfolio-Website/
 
-([myimage.png](https://github.com/saloni222444/QUESTION_PAPAER-WEBSITE/blob/main/Screenshot%202025-04-22%20112239.png))
+([Screenshot 2025-04-22 112239](https://github.com/saloni222444/QUESTION_PAPAER-WEBSITE/blob/main/Screenshot%202025-04-22%20112239.png))
 
 <h1>University Exam Paper Archive</h1>
 <p>This web application serves as a platform for students to easily browse, search, and download previous exam question papers across various subjects and semesters. Its user-friendly design enhances exam preparation by providing quick access to past papers.</p>
